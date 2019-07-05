@@ -4,7 +4,7 @@ var result = require("./Tutorial");
 
 // to export multiple module this time
 
-console.log(ressult.PI);
+console.log(result.PI);
 
 console.log(result.sum(4,4));
 console.log(new result.ObjectCreate());
